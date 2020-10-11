@@ -15,3 +15,8 @@ THEN the deposits or expenses added while they were offline are added </br>
 ## Installation 
 run npm install
 
+## Deployed App
+https://quiet-gorge-20222.herokuapp.com/
+
+## Author
+Josh Hall - UCF Full Stack Coding Boot Camp
